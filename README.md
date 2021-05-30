@@ -28,7 +28,7 @@ Inital Date: 5/29/21
        ! PLA Humidity > 45%
        ! PETG Humidty > 45% 
 
-## Bread Board Prototype
+## Bread Board Prototype of Arduino Nano 33 BLE Sense with SSD1306 and Wire for substitute Switch
 
 ![Nano 33 BLE Sense with SSD1306 and Wire for substitute Switch](images/Proto-1.JPG)
  
