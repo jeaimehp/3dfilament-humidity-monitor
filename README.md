@@ -27,4 +27,8 @@ Inital Date: 5/29/21
       Humidity levels: 10% - 20% (Excellent), 20%-25% (Good),25% -35% (Fair), >35% (Poor)  
        ! PLA Humidity > 45%
        ! PETG Humidty > 45% 
+
+## Bread Board Prototype
+
+![Nano 33 BLE Sense with SSD1306 and Wire for substitute Switch](images/Proto-1.JPG)
  
