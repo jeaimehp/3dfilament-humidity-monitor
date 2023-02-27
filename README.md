@@ -3,6 +3,8 @@
 
 Coded By: Je'aime Powell -- [Inital Date: 5/29/21]
 
+![image](images/monitor-inbox.jpeg)
+
 ## Purpose
 - Sensor to live in the 3D Printer filament box to monitor filament humidity.
 - Alerts during high humidity levels
